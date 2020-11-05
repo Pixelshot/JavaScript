@@ -22,4 +22,5 @@
 * [Numbers](numbers.md)
 * [Object Literals](object-literals.md)
 * [String Methods & Concatenation](string-methods-and-concatenation.md)
+* [Switches](switches.md)
 
