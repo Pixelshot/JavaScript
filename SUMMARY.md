@@ -19,4 +19,5 @@
 * [Functions Declarations & Expressions](functions-declarations-and-expressions.md)
 * [General Loops](general-loops.md)
 * [If Statements & Comparison Operators](if-statements-and-comparison-operators.md)
+* [Numbers](numbers.md)
 
