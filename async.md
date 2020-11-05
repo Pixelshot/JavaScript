@@ -4,6 +4,8 @@ description: Async Functions
 
 # Async
 
+
+
 ## 181 - A Quick Overview of Async Functions
 
 #### Async is JavaScript's way of letting us treat our code as though they are Synchronous

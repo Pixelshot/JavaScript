@@ -1,5 +1,7 @@
 # Object Prototypes
 
+
+
 ## 188 - What on Earth are Prototypes ?
 
 #### Remember: Arrays are Objects in JavaScript
