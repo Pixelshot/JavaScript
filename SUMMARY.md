@@ -13,4 +13,6 @@
 * [Promise Chaining](promise-chaining.md)
 * [Promises](promises.md)
 * [Arrays](arrays.md)
+* [Dates & Times](dates-and-times.md)
+* [Data Types](data-types.md)
 
