@@ -12,4 +12,5 @@
 * [Object Prototypes](object-prototypes.md)
 * [Promise Chaining](promise-chaining.md)
 * [Promises](promises.md)
+* [Arrays](arrays.md)
 
