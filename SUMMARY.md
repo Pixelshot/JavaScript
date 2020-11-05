@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Await](README.md)
+* [README.md](README.md)
 * [Async](async.md)
 * [Asynchronous](asynchronous.md)
 * [Call Stack](call-stack.md)
