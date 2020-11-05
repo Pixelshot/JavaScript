@@ -23,4 +23,5 @@
 * [Object Literals](object-literals.md)
 * [String Methods & Concatenation](string-methods-and-concatenation.md)
 * [Switches](switches.md)
+* [Type Conversion](type-conversion.md)
 
