@@ -20,4 +20,5 @@
 * [General Loops](general-loops.md)
 * [If Statements & Comparison Operators](if-statements-and-comparison-operators.md)
 * [Numbers](numbers.md)
+* [Object Literals](object-literals.md)
 
