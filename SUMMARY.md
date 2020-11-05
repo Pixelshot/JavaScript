@@ -21,4 +21,5 @@
 * [If Statements & Comparison Operators](if-statements-and-comparison-operators.md)
 * [Numbers](numbers.md)
 * [Object Literals](object-literals.md)
+* [String Methods & Concatenation](string-methods-and-concatenation.md)
 
