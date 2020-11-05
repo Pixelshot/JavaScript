@@ -1,7 +1,5 @@
 # Dates & Times
 
-
-
 **Dates & Times**
 
 ```javascript
