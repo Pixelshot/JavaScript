@@ -1,7 +1,5 @@
 # Factory Functions
 
-
-
 ## 190 - Factory Functions
 
 ### Factory functions are useful especially when we want to enter the same value into different functions

@@ -14,7 +14,6 @@
 * [Object Prototypes](object-prototypes.md)
 * [Promise Chaining](promise-chaining.md)
 * [Promises](promises.md)
-* [DataTypes](datatypes.md)
 * [Dates & Times](dates-and-times.md)
 * [Data Types](data-types.md)
 * [Functions Declarations & Expressions](functions-declarations-and-expressions.md)

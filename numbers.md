@@ -1,7 +1,5 @@
 # Numbers
 
-
-
 ```javascript
 // Simple math with numbers
 val = num1 + num2;
