@@ -1,5 +1,7 @@
 # Call Stack
 
+
+
 * **The Call Stack** - JS way of knowing **what** are the function, **where** they are and **which** one is currently running.
 * Call stack is like the **bookmark** of a book
 * Call = function calls

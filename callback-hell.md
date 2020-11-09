@@ -1,5 +1,7 @@
 # Callback Hell
 
+
+
 ## For JavaScript to know when an asynchronous operation has a result \(a result being either returned data or an error that occurred during the operation\), it points to a function that will be executed once that result is ready. This function is what we call a “callback function”.
 
 [Full Article](https://medium.com/codebuddies/getting-to-know-asynchronous-javascript-callbacks-promises-and-async-await-17e0673281ee)

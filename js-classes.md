@@ -1,5 +1,7 @@
 # JS-Classes
 
+
+
 ## 192 - JS Classes - Syntactical Sugar
 
 Some of the benefit of using `class` instead:
