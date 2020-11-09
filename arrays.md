@@ -1,5 +1,7 @@
 # Arrays
 
+
+
 **Different type/style of an array**
 
 ```javascript
