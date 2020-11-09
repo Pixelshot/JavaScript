@@ -1,8 +1,10 @@
 # Table of contents
 
 * [README.md](README.md)
-* [Async](async.md)
+* [Arrays](arrays.md)
 * [Asynchronous](asynchronous.md)
+* [Async](async.md)
+* [Await](await.md)
 * [Call Stack](call-stack.md)
 * [Callback Hell](callback-hell.md)
 * [Factory Functions](factory-functions.md)
@@ -12,7 +14,6 @@
 * [Object Prototypes](object-prototypes.md)
 * [Promise Chaining](promise-chaining.md)
 * [Promises](promises.md)
-* [Arrays](arrays.md)
 * [DataTypes](datatypes.md)
 * [Dates & Times](dates-and-times.md)
 * [Data Types](data-types.md)
@@ -24,5 +25,4 @@
 * [String Methods & Concatenation](string-methods-and-concatenation.md)
 * [Switches](switches.md)
 * [Type Conversion](type-conversion.md)
-* [Await](await.md)
 
