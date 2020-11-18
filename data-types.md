@@ -17,9 +17,16 @@
 #### Null
 
 * **Intentionally absence of any value**
-* **must be assigned**
+* **Must be assigned**
+* **We don't come across `null`a lot. At least not as often as `undefined`**
 
-`const address = null`
+```javascript
+// No one is logged in yet...
+const loggedInUser = null; //value is explicitly nothing
+
+// A user logs in...
+loggedInUser = 'Ricky Bobby';
+```
 
 #### Undefined
 
