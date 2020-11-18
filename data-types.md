@@ -16,11 +16,15 @@
 
 #### Null
 
+* **Intentionally absence of any value**
+* **must be assigned**
+
 `const address = null`
 
 #### Undefined
 
-* **const must always be defined** therefore we'll use **let** to show undefined
+* **Variables that do not have an assigned value are `undefined`**
+* **`const`must always be defined** therefore we'll use **`let`**to show **`undefined`**
 
 `let siblings;`
 
