@@ -24,6 +24,7 @@
 #### Undefined
 
 * **Variables that do not have an assigned value are `undefined`**
+* **Think of it as JavaScript's way of saying "I don't know what's going on"**
 * **`const`must always be defined** therefore we'll use **`let`**to show **`undefined`**
 
 `let siblings;`
