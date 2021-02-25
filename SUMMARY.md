@@ -24,4 +24,5 @@
 * [String Methods & Concatenation](string-methods-and-concatenation.md)
 * [Switches](switches.md)
 * [Type Conversion](type-conversion.md)
+* [Compact version - Callback Hell/Promise/Async Await](compact-version-callback-hell-promise-async-await.md)
 
