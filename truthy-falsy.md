@@ -8,5 +8,10 @@
 * null
 * NaN
 
-
+```javascript
+console.log(Boolean(0)); // -> false
+console.log(Boolean(undefined)); // -> false
+console.log(Boolean('Hello there')); // -> true
+console.log(Boolean({})); // -> true
+```
 
