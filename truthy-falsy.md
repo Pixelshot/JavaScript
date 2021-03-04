@@ -15,3 +15,17 @@ console.log(Boolean('Hello there')); // -> true
 console.log(Boolean({})); // -> true
 ```
 
+#### Example of truthy/falsy in if else statement:
+
+```javascript
+const money = 0;
+
+// JavaScript will do type coersion on anything that is in the parenthesis
+if(money) {
+    console.log("Don't spend it all at once!")
+} else {
+    console.log("Get a job!");
+}
+// -> Get a job!
+```
+
