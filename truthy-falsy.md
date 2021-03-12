@@ -2,7 +2,7 @@
 
 #### There are 5 `falsy` values
 
-* false
+* undefined
 * Zero 0
 * Empty string " "
 * null
@@ -27,5 +27,16 @@ if(money) {
     console.log("Get a job!");
 }
 // -> Get a job!
+```
+
+```javascript
+let height;
+if (height) {
+    console.log('YAY! Hegiht is defined');
+} else {
+    console.log('Height is UNDEFINED!');
+}
+// > Height is UNDEFINED!
+// height is declared but never defined therefore it's considered as undefined
 ```
 
