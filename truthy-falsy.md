@@ -33,7 +33,7 @@ if(money) {
 ```javascript
 let height;
 if (height) {
-    console.log('YAY! Hegiht is defined');
+    console.log('YAY! Height is defined');
 } else {
     console.log('Height is UNDEFINED!');
 }
