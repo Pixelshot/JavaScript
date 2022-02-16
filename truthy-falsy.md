@@ -1,7 +1,8 @@
 # Truthy / Falsy
 
-#### There are 5 `falsy` values
+#### There are 6 `falsy` values
 
+* false
 * undefined
 * Zero 0
 * Empty string " "
@@ -39,4 +40,3 @@ if (height) {
 // > Height is UNDEFINED!
 // height is declared but never defined therefore it's considered as undefined
 ```
-
